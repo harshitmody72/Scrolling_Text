@@ -15,7 +15,10 @@ I have made a simple UI including one in which the user can scroll its contents 
 
 ## Preview
 > ![](https://github.com/harshitmody72/Scrolling_Text/blob/master/RESOURCES/1.jpg)
+---
 >
 > ![](https://github.com/harshitmody72/Scrolling_Text/blob/master/RESOURCES/2.jpg)
+---
 >
 > ![](https://github.com/harshitmody72/Scrolling_Text/blob/master/RESOURCES/3.jpg)
+---
